@@ -25,7 +25,7 @@
         <joda-time-version>2.9.9</joda-time-version>-->
 <!--        <alibaba-fastjson-version>1.2.70</alibaba-fastjson-version>-->
         <jdk-version>1.8</jdk-version>
-        <jackson.annotations>2.13.3</jackson.annotations>
+        <jackson.annotations>2.13.4.2</jackson.annotations>
     </properties>
 
     <!--以下dependency来自官方-->
